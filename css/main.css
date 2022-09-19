@@ -1,0 +1,30 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+}
+
+
+nav li{
+    display:inline;
+    margin: 20px;
+}
+
+nav u{
+    background-color: black;
+    margin: 0;
+
+}
+nav {
+    display: block;
+    color: white;
+}
+
+
+.hero-text{
+    color: black;
+    text-align: center;
+    position: top;
+    top: 50%;
+    left: 50%
+    transform: translate(50%,50%)
+}
